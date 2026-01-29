@@ -49,7 +49,7 @@ img {
 }
 
 body {
-    background-image:url("/assets/bg_img.jpg") ;
+    background-image:url("./assets/bg_img.jpg") ;
     background-size: cover;  /* cover the entire background */
  background-position: center;
     background-repeat: no-repeat;
